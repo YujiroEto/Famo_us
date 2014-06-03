@@ -1,4 +1,4 @@
 Famo_us
 =======
 
-practice for "Famo.us"
+practice of "Famo.us"
